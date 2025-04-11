@@ -1,7 +1,7 @@
 {
-    "user_id_list": ["1669879400"],
+    "user_id_list": ["6725778326"],
     "filter": 1,
-    "since_date": "2018-01-01",
+    "since_date": "2023-01-01",
     "end_date": "now",
     "random_wait_pages": [1, 5],
     "random_wait_seconds": [6, 10],
@@ -11,7 +11,7 @@
     "video_download": 1,
 	"file_download_timeout": [5, 5, 10],
 	"result_dir_name": 0,
-    "cookie": "your cookie",
+    "cookie": "_T_WM=6553310dcd1feb80069e37b55dfd90a1; SCF=ApFGbcE3kEqdgBoGZjzIY1sME7pUOHBKLSmMy9URC6NhjbS0u-7OaF23dqznqlZKX_ltYjeM_KfjEEzxfDge5uw.; SUB=_2A25K_KhVDeRhGeFK61EX-CzKzDSIHXVmc6WdrDV6PUJbktANLRLtkW1NQ7fqLBeElIylk1P4dj4zP_hhtKU9NHNk; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWGVjXYfINZq7fUkbsOzDvi5NHD95QNSh50SonESoMRWs4Dqcj.i--fi-2fi-z4i--Ri-8si-zXi--4iKLFiKnpi--fiKy2iK.N; SSOLoginState=1744361477; ALF=1746953477",
     "mysql_config": {
         "host": "localhost",
         "port": 3306,
